@@ -1,0 +1,61 @@
+/***  Hero section  ***/
+.c-hero-section {
+    min-height: 100vh;
+    background: url('../images/hero-img.jpg');
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-color__content {
+    margin: 0.5em auto 1.7em;
+    width: 2.0625em;
+    height: 0.6785em;
+    background: -moz-linear-gradient( 0deg, rgba(231, 67, 21, 0.902) 0%, rgba(255, 184, 108, 0.902) 33%,  rgba(80, 250, 122, 0.902) 100%);
+    background: -webkit-linear-gradient( 0deg, rgba(231, 67, 21, 0.902) 0%, rgba(255, 184, 108, 0.902) 33%,  rgba(80, 250, 122, 0.902) 100%);
+    background: -ms-linear-gradient( 0deg, rgba(231, 67, 21, 0.902) 0%, rgba(255, 184, 108, 0.902) 33%,  rgba(80, 250, 122, 0.902) 100%);
+}
+
+
+/***  Affixes section  ***/
+.c-affixes-section {
+    padding: 5.75rem 2rem 4.0625rem 2rem;
+    background: url('../images/affixes-img.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.c-content__title {
+    margin: 4rem 1.1875rem 1.5rem;
+}
+
+.c-content__desc {
+    margin-block-end: 1.5rem;
+}
+
+
+/*** Second Affixes section  ***/
+.c-affixes2-section {
+    padding: 0.75rem 2rem 4.0625rem 2rem;
+    background: -moz-linear-gradient(-90deg, #2D2C2F 0%, #2E2D30 0.01%, #131313 100%), #0C0C0C;
+    background: -webkit-linear-gradient(-90deg, #2D2C2F 0%, #2E2D30 0.01%, #131313 100%), #0C0C0C;
+    background: -ms-linear-gradient(-90deg, #2D2C2F 0%, #2E2D30 0.01%, #131313 100%), #0C0C0C;
+}
+
+/*** Group Considerations section  ***/
+.c-considerations-section {
+    padding: 0.75rem 2rem 0 2rem;
+    background: url('../images/considerations-img.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+
+
+
+
+
